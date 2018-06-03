@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlergyStats</string>
+    <string name="get_polen">Optener mediciones de polen</string>
+</resources>
